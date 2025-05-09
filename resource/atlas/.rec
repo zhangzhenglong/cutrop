@@ -1,0 +1,250 @@
+D .
+D resource
+D resource/assets
+D resource/assets/img
+R 2D32B6B3 game_panel_db.png
+R F042D43E game_tips_db.png
+D resource/assets/loading
+P C90AEED6 loading1.png
+R A813201E loading2.png
+R 5A32A52F loading3.png
+P 76A99FFB loading5.png
+P 50544892 loading6.png
+S 1CB344E0 loading_bg.jpg
+P 723B66AF loading_circle.png
+P 1F52A323 loading_tt_1.png
+D resource/assets/sound
+D resource/assets/img/common
+P A5B59910 common_add.png
+R F5B24F7E common_anniu4.png
+P 93C64C81 common_bg.png
+P FBDCF5A5 common_btn.png
+P D68D78C5 common_close.png
+P BAE43BF7 common_power.png
+P 573FE047 common_power_bg.png
+P 332617C9 common_share.png
+P 15B3199C common_video.png
+D resource/assets/img/dy
+P BC02B97A dy_icon_mask.png
+S 52A534EE friend1.png
+P 0166D069 friend2.png
+P BD7469D3 friend3.png
+P 26E3588D h1.png
+S 1C7649F6 h2.png
+P 7CF4F4F9 hot1.png
+S 8A7B7DAF hot2.jpg
+P 5CB8794D hot3.png
+P A6E7C41D hot4.png
+R AA4599BD pass1.png
+D resource/assets/img/game
+P B79CB811 game_artillery.png
+S C34F6D3F game_bg1.jpg
+S 8F5FD45D game_bg2.jpg
+S F426407A game_bg3.jpg
+P CB7D138B game_board.png
+P 9311B642 game_bomb.png
+P DBD54E50 game_box_needles.png
+P D39308FF game_bullet.png
+P A25504B9 game_bullet1.png
+R 31B78D5E game_connect_board.png
+P 45B350A9 game_door.png
+P DF1BBF57 game_dot.png
+P A146C07D game_ElectricSaw.png
+P 65B92CEB game_floor.png
+P 472DC8BA game_heavy.png
+P FBBD7480 game_needles.png
+P A630F55E game_roof.png
+P 7CA735A0 game_ropes.png
+P F3F2D999 game_serrated.png
+P 7C4D79E5 game_spine_turn.png
+P 1326E62D game_Spring.png
+D resource/assets/img/gameView
+P 044ADFDF game_view1.png
+P 2731A5D4 game_view2.png
+P 2EBC1DEE game_view3.png
+P EE319D63 game_view4.png
+P 1C4C8F3A game_view5.png
+P 53390AA5 game_view6.png
+P CFB6E3FC gameView_tubiao1.png
+P 4FBC527D gameView_tubiao2.png
+P 052951AB gameView_tubiao4.png
+P 73F03752 gameView_zi.png
+D resource/assets/img/guessLike
+P 146AFBCD bk_dot.png
+P FA62DD3F bk_icon_db.png
+P BC02B97A bk_icon_mask.png
+S C6FA7C6B gl_db.png
+P CE1C3E58 gl_icon_1.png
+P D2C85134 gl_icon_2.png
+P AD5A8062 home_ct.png
+R AA4599BD sw_db.png
+P 52A11A0A sw_icon.png
+P 27FD49D8 sw_iconMask.png
+D resource/assets/img/home
+P 2AD8EE74 game_shiyi.png
+P 7DC0CFE1 home_tubiao1.png
+R 1012500B home_tubiao2.png
+P 401D69FF home_tubiao3.png
+P 5A43918C home_tubiao4.png
+P 9AD84816 home_tubiao5.png
+P 95B94E69 home_tubiao6.png
+P FF4D836B home_tubiao7.png
+P 1FE0D8DE qiege.png
+D resource/assets/img/invite
+P 53D75B3A invite_tubiao1.png
+P E904E40A invite_tubiao10.png
+P 9A67BBF2 invite_tubiao11.png
+P 6C1B9CE8 invite_tubiao2.png
+P 966678E6 invite_tubiao5.png
+P 3B423305 invite_tubiao6.png
+P CCA42C89 invite_tubiao7.png
+P DAF4BBCF invite_tubiao8.png
+P 1FC651D7 invite_tubiao9.png
+D resource/assets/img/level
+P E63AF3E3 level_anniu_1.png
+P 36F6A9FB level_diabn_1.png
+P 934533E4 level_diabn_2.png
+P 4124E208 level_diban_3.png
+D resource/assets/img/power
+R AA31468B power_tubiao1.png
+P 5639C91E power_tubiao2.png
+P D25817F8 power_tubiao3.png
+D resource/assets/img/settlement
+P D77B7054 settlement_gksp.png
+P 99021D57 settlement_sz_1_jia.png
+P 595A34E2 settlement_tubiao1.png
+P 7815D24B settlement_tubiao10.png
+R 762D3AD0 settlement_tubiao11.png
+P BE5FDACC settlement_tubiao12.png
+R EA9B4E9A settlement_tubiao13.png
+P 98B5B72D settlement_tubiao14.png
+P B06E8945 settlement_tubiao3.png
+P E0BDCC9F settlement_tubiao4.png
+R B6DDF23F settlement_tubiao6.png
+P 92BC4AB5 settlement_tubiao7.png
+P 0A9225BE settlement_tubiao8.png
+R ABF668D9 settlement_tubiao9.png
+P 20F8EEB1 settlement_x.png
+D resource/assets/img/sign
+P 00966021 sign1.png
+P 3B7008A2 sign2.png
+P DC95D033 sign3.png
+P D68FF23E sign4.png
+P 320738B0 sign5.png
+P 487CBE89 sign6.png
+R 379FED9B sign7.png
+P 9FD65513 sign8.png
+D resource/assets/img/someAward
+P 261BC362 someAward_jdt_1.png
+P 8476A625 someAward_jdt_2.png
+P 754AA058 someAward_zi_1.png
+P ED7ADC87 someAward_zi_2.png
+P E9F9A828 someAwardanniu_2.png
+R 60F1B863 someAwarddiban.png
+R 5246D1A4 someAwardguangxiao.png
+P BD3A0456 someAwardshou.png
+P 40482F07 someAwardtubiao_2.png
+D resource/assets/img/gameView/gameView_sz
+P DBCC68B2 0.png
+P AA29F53E 1.png
+P E5E581DF 2.png
+P 9672B58B 3.png
+P 8D7956A0 4.png
+P 6F9A5917 5.png
+P 998FEA5D 6.png
+P E7472BA6 7.png
+P 92407B19 8.png
+P B59AB4AB 9.png
+D resource/assets/img/guessLike/ct
+S 5F3423DD bg1.png
+P C629BDCE ct1.png
+P 411F1848 ct10.png
+R 71E9CC27 ct2.png
+P 94E48571 ct3.png
+P 9AF99E38 ct4.png
+P 7D3894E0 ct5.png
+P 34BB7863 ct6.png
+P 2AA57815 ct7.png
+P 88C6DC69 ct8.png
+P CA0E2DA8 ct9.png
+D resource/assets/img/invite/invite_sz
+P F0F0D82B 0.png
+P 5BAA8932 1.png
+P 79EE7298 2.png
+P 069D3617 3.png
+P EE2936B7 4.png
+P D4269979 5.png
+P 90A65F26 6.png
+P 7A1689E7 7.png
+P 82A4FD3C 8.png
+P 6D456B0B 9.png
+D resource/assets/img/level/level_sz
+P 533BB55E 0.png
+P 47CB068F 1.png
+P 8B89A0FE 2.png
+P 658BD922 3.png
+P 95113067 4.png
+P 45E01D15 5.png
+P 3916E2FA 6.png
+P 6CF27E9F 7.png
+P 0753ECD9 8.png
+P E54A567F 9.png
+D resource/assets/img/settlement/settlement_sz
+P 851BD84B 0.png
+P 285A9C97 1.png
+P 7AB3DAEE 2.png
+P DA4425C7 3.png
+P 45382E4D 4.png
+P C5BBD30F 5.png
+P F2EF9BDF 6.png
+P 4DD1CF8C 7.png
+P 9CF31CF8 8.png
+P 24F63FEB 9.png
+D resource/assets/img/settlement/settlement_sz_1
+P 3B740CB1 0.png
+P 58C74CD8 1.png
+P 507AB086 2.png
+P C8963924 3.png
+P 5ABC73EA 4.png
+P 4361F62A 5.png
+P CD8A905A 6.png
+P C5379E74 7.png
+P 01729DF2 8.png
+P 69F57A69 9.png
+D resource/assets/img/settlement/tt
+P 748355FD toutiao_add.png
+R 6F6306AA toutiao_button.png
+P B5AB15EE toutiao_icon.png
+P 9226A0DA toutiao_word.png
+D resource/assets/img/sign/sign1
+P 3A77CCDA 1.png
+P 21C80F10 2.png
+P 840ECBBC 3.png
+P 4AB8B4D0 4.png
+P C3826B96 5.png
+P 6F4AA827 6.png
+P 18DA99F5 7.png
+P 7FAA721D D.png
+D resource/assets/img/sign/sign2
+P C98CA861 0.png
+P 69FA0E58 1.png
+P 97A7B47A 2.png
+P C372852D 3.png
+P 41125B9E 4.png
+P F617C3AF 5.png
+P 1EEB0FB8 6.png
+P 1A49CD52 7.png
+P A7A8FFCE 8.png
+P 2905C8FD 9.png
+P 6A5C9D14 x.png
+D resource/assets/img/settlement/tt/toutiao_number
+P 94F12A70 toutiao_number_0.png
+P 2EAB3AC4 toutiao_number_1.png
+P FB8AB90D toutiao_number_2.png
+P D6C1E3C9 toutiao_number_3.png
+P 78BCE512 toutiao_number_4.png
+P EA980033 toutiao_number_5.png
+P 421653E4 toutiao_number_6.png
+P 4AAF7C82 toutiao_number_7.png
+P 55EB52A7 toutiao_number_8.png
+P 7D08F3E8 toutiao_number_9.png

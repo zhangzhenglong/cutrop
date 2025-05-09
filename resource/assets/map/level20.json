@@ -1,0 +1,185 @@
+[
+    {
+        "name": "role",
+        "posision": {
+            "x": 502,
+            "y": 743
+        },
+        "connect": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "1",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 326,
+                    "y": 447
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+            {"x": 326,"y": 481},
+            {"x": 502,"y": 743}
+                ]
+            }
+        ]
+    },
+     {
+        "name": "chain",
+        "connect": "2",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 604,
+                    "y": 457
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 606,"y":491 },
+                {"x": 502,"y": 743}
+                ]
+            }
+        ]
+    },
+         {
+        "name": "chain",
+        "connect": "3",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 200,
+                    "y": 457
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 200,"y": 491 },
+                {"x": 200,"y": 882}
+                ]
+            }
+        ]
+    },
+             {
+        "name": "chain",
+        "connect": "4",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 706,
+                    "y": 457
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 706,"y": 491 },
+                {"x": 706,"y": 786}
+                ]
+            }
+        ]
+    },     
+    {
+        "name": "floor",
+        "posision": [
+            {
+                "direction":"right",
+                "x": 544,
+                "y": 2034,
+                "width": 1149,
+                "height": 1000
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "posision": [
+            {
+                "x": 540,
+                "y": 193,
+                "width": 1080,
+                "height": 393
+            },
+            {
+                "x": -39,
+                "y": 960,
+                "width": 78,
+                "height": 1218
+            },
+            {
+                "x": 1119,
+                "y": 958,
+                "width": 78,
+                "height": 1241
+            }
+        ]
+    },   
+   {
+        "name": "bg",
+        "source":"game_bg1"
+    },
+        {
+        "name": "thorn",
+        "posision": [
+            {
+                "x": 534,
+                "y": 1078
+            },
+            {
+                "x": 706,
+                "y": 1078
+            }
+        ]
+    },
+        {
+        "name": "heavy",
+         "connect": [
+            "3"
+        ],
+        "posision": [
+            {
+                "x": 200,
+                "y": 882
+            }
+        ]
+    },
+         {
+        "name": "blade",
+         "connect": [
+            "4"
+        ],
+        "posision": [
+            {
+                "x": 706,
+                "y": 786
+            }
+        ]
+    },
+  {
+        "name": "door",
+        "posision": [
+            {
+                "x": 906,
+                "y": 1414,
+                "width": 132,
+                "height": 237
+            }
+        ]
+    }
+]
+     

@@ -1,0 +1,143 @@
+[
+    {
+        "name": "role",
+        "posision": {
+            "x": 68,
+            "y": 811
+        },
+        "connect": [
+            "1"
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "1",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 68,
+                    "y": 532
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+            {"x": 68,"y": 566},
+            {"x": 68,"y": 812}
+                ]
+            }
+        ]
+    },
+     {
+        "name": "chain",
+        "connect": "2",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 664,
+                    "y": 843
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 664,"y": 877},
+                {"x": 664,"y": 1088}
+                ]
+            }
+        ]
+    },   
+    {
+        "name": "floor",
+        "posision": [
+            {
+                "direction":"right",
+                "x": 540,
+                "y": 2027,
+                "width": 1080,
+                "height": 1000
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "posision": [
+            {
+                "x": 540,
+                "y": 193,
+                "width": 1080,
+                "height": 393
+            },
+            {
+                "x": -39,
+                "y": 960,
+                "width": 78,
+                "height": 1218
+            },
+            {
+                "x": 1119,
+                "y": 958,
+                "width": 78,
+                "height": 1241
+            }
+        ]
+    },   
+   {
+        "name": "bg",
+        "source":"game_bg1"
+    },
+        {
+        "name": "supthorn",
+        "connect": [
+            "2"
+        ],
+        "posision": [
+            {
+                "x": 703,
+                "y": 1088
+            }
+        ]
+    },
+    {
+        "name": "spring",
+        "posision": [
+            {
+                "roation": 30,
+                "direction":"right",
+                "time":2000,
+                "x": 54,
+                "y": 1482
+            }
+        ]
+    },
+{
+        "name": "board",
+        "posision": [
+            {
+                "direction": "right",
+                "x": 930,
+                "y": 1272,
+                "width": 300,
+                "height": 30
+
+            }
+        ]
+    },
+
+  {
+        "name": "door",
+        "posision": [
+            {
+                "x": 948,
+                "y": 1139,
+                "width": 132,
+                "height": 237
+            }
+        ]
+    }
+]
+     

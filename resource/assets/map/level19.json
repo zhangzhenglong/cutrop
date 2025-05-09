@@ -1,0 +1,120 @@
+[
+    {
+        "name": "role",
+        "posision": {
+            "x": 502,
+            "y": 743
+        },
+        "connect": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "1",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 376,
+                    "y": 457
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+            {"x": 376,"y": 491},
+            {"x": 502,"y": 743}
+                ]
+            }
+        ]
+    },
+     {
+        "name": "chain",
+        "connect": "2",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 567,
+                    "y": 464
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 567,"y": 498},
+                {"x": 502,"y": 743}
+                ]
+            }
+        ]
+    },   
+    {
+        "name": "floor",
+        "posision": [
+            {
+                "direction":"right",
+                "x": 540,
+                "y": 2037,
+                "width": 1149,
+                "height": 1000
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "posision": [
+            {
+                "x": 540,
+                "y": 193,
+                "width": 1080,
+                "height": 393
+            },
+            {
+                "x": -39,
+                "y": 960,
+                "width": 78,
+                "height": 1218
+            },
+            {
+                "x": 1119,
+                "y": 958,
+                "width": 78,
+                "height": 1241
+            }
+        ]
+    },   
+   {
+        "name": "bg",
+        "source":"game_bg1"
+    },
+        {
+        "name": "turnthorn",
+        "posision": [
+            {
+                "x": 483,
+                "y": 1023
+            },
+            {
+                "roation": 90,
+                "x": 627,
+                "y": 1352
+            }
+        ]
+    },
+  {
+        "name": "door",
+        "posision": [
+            {
+                "x": 906,
+                "y": 1418,
+                "width": 132,
+                "height": 237
+            }
+        ]
+    }
+]
+     

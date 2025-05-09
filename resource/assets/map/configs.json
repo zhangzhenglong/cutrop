@@ -1,0 +1,205 @@
+{
+    "shareInfo": [
+        {
+            "title": "宝宝过年回家没红包怎么办？",
+            "imageUrl": "https://package.32yx.com/ecy_game_small/laya/cutRope/wx_res/share1.jpg",
+            "query": ""
+        },
+        {
+            "title": "宝宝回家吃饭了吗？",
+            "imageUrl": "https://package.32yx.com/ecy_game_small/laya/cutRope/wx_res/share2.jpg",
+            "query": ""
+        },
+        {
+            "title": "救救小朋友，帮他逃离房间!",
+            "imageUrl": "https://package.32yx.com/ecy_game_small/laya/cutRope/wx_res/share3.jpg",
+            "query": ""
+        }
+    ],
+    "maxLevel": 70,
+    "freePower": 2,
+    "maxPower":10,
+    "recoverTime":300000,
+    "invite": [
+        {
+            "id": 1,
+            "name": 1,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": 2,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": 3,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": 4,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": 5,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": 6,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": 7,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": 8,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": 9,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": 10,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": 11,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": 12,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": 13,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": 14,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": 15,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": 16,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": 17,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": 18,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+{"1":{"Status":1,"Threshold":null,"TargetStatus":null,"Icon":{"1":"share","2":"video"},"VideoType":1},
+"2":{"Status":1,"Threshold":2,"TargetStatus":2,"Icon":{"1":"share","2":"video"},"VideoType":2},
+"3":{"Status":2,"Threshold":null,"TargetStatus":null,"Icon":{"1":"share","2":"video"},"VideoType":2},
+"4":{"Status":2,"Threshold":2,"TargetStatus":1,"Icon":{"1":"share","2":"video"},"VideoType":1}}

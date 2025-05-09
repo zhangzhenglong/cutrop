@@ -1,0 +1,211 @@
+[
+    {
+        "name": "role",
+        "posision": {
+            "x": 99,
+            "y": 705
+        },
+        "connect": [
+            "1"
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "1",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 99,
+                    "y": 413
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+            {"x": 99,"y": 447},
+            {"x": 99,"y": 705}
+                ]
+            }
+        ]
+    },
+     {
+        "name": "chain",
+        "connect": "2",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 924,
+                    "y": 416
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 924,"y": 453},
+                {"x": 924,"y": 615}
+                ]
+            }
+        ]
+    }, 
+        {
+        "name": "chain",
+        "connect": "3",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 805,
+                    "y": 1002
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 805,"y": 1038},
+                {"x": 805,"y": 1205}
+                ]
+            }
+        ]
+    },       
+    {
+        "name": "floor",
+        "posision": [
+            {
+                "direction":"right",
+                "x": 516,
+                "y": 2035,
+                "width": 1200,
+                "height": 953
+            },
+            {
+                "direction":"right",
+                "x": 453,
+                "y": 1440,
+                "width": 274,
+                "height": 245
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "posision": [
+            {
+                "x": 540,
+                "y": 193,
+                "width": 1080,
+                "height": 393
+            },
+            {
+                "x": -39,
+                "y": 960,
+                "width": 78,
+                "height": 1218
+            },
+            {
+                "x": 1119,
+                "y": 958,
+                "width": 78,
+                "height": 1241
+            }
+        ]
+    },   
+   {
+        "name": "bg",
+        "source":"game_bg2"
+    },
+
+     {
+        "name": "bandit",
+        "posision": [
+            {
+                "x": 54,
+                "y": 1466,
+                "p1":54,
+                "p2":215
+            },
+            {
+                "x": 694,
+                "y": 1466,
+                "p1":694,
+                "p2":805
+            },
+            {
+                "x": 1017,
+                "y": 849,
+                "p1":1017,
+                "p2":869
+            }
+
+        ]
+    },
+    {
+        "name": "blade",
+         "connect": [
+            "2"
+        ],
+        "posision": [
+            {
+                "x": 924,
+                "y": 615
+            }
+        ]
+    },
+    {
+        "name": "heavy",
+         "connect": [
+            "3"
+        ],
+        "posision": [
+            {
+                "x": 805,
+                "y": 1205
+            }
+        ]
+    },
+    {
+        "name": "board",
+        "posision": [
+            {
+                "direction": "right",
+                "x": 145,
+                "y": 960,
+                "width": 300,
+                "height": 30
+            },
+            {
+                "direction": "right",
+                "x": 930,
+                "y": 960,
+                "width": 300,
+                "height": 30
+            }
+        ]
+    },
+    {
+        "name": "turnboard",
+        "posision": [
+            {
+                "direction": "right",
+                "x": 485,
+                "y": 1081
+            }
+        ]
+    },
+  {
+        "name": "door",
+        "posision": [
+            {
+                "x": 984,
+                "y": 1442,
+                "width": 132,
+                "height": 237
+            }
+        ]
+    }
+]
+     

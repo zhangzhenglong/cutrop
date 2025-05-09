@@ -1,0 +1,146 @@
+[
+    {
+        "name": "role",
+        "posision": {
+            "x": 96,
+            "y": 1221
+        },
+        "connect": [
+            "1"
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "1",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 96,
+                    "y": 871
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+            {"x": 96,"y": 905},
+            {"x": 96,"y": 1221}
+                ]
+            }
+        ]
+    },        
+    {
+        "name": "floor",
+        "posision": [
+            {
+                "direction":"right",
+                "x": 540,
+                "y": 2015,
+                "width": 1099,
+                "height": 742
+            },
+            {
+                "direction":"right",
+                "x": 69,
+                "y": 1607,
+                "width": 196,
+                "height": 75
+            },
+            {
+                "direction":"right",
+                "x": 751,
+                "y": 1607,
+                "width": 1000,
+                "height": 75
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "posision": [
+            {
+                "x": 540,
+                "y": 193,
+                "width": 1080,
+                "height": 393
+            },
+            {
+                "x": -39,
+                "y": 960,
+                "width": 78,
+                "height": 1218
+            },
+            {
+                "x": 1119,
+                "y": 958,
+                "width": 78,
+                "height": 1241
+            }
+        ]
+    },   
+    {
+        "name": "board",
+        "posision": [
+            {
+                "direction": "right",
+                "x": 450,
+                "y": 1222,
+                "width": 140,
+                "height": 77
+            },
+            {
+                "direction": "right",
+                "x": 841,
+                "y": 1222,
+                "width": 477,
+                "height": 77
+            },
+            {
+                "direction": "right",
+                "x": 730,
+                "y": 1280,
+                "width": 700,
+                "height": 43
+            },
+            {
+                "direction": "right",
+                "x": 930,
+                "y": 789,
+                "width": 300,
+                "height": 100
+            }
+        ]
+    },
+    {
+        "name": "spring",
+        "posision": [
+            {
+                "roation": 0,
+                "direction":"right",
+                "time":2000,
+                "x": 209,
+                "y": 1607
+            },
+            {
+                "roation": 0,
+                "direction":"right",
+                "time":2000,
+                "x": 561,
+                "y": 1221
+            }
+        ]
+    },
+  {
+        "name": "door",
+        "posision": [
+            {
+                "x": 919,
+                "y": 619,
+                "width": 132,
+                "height": 237
+            }
+        ]
+    }
+]
+     

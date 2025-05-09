@@ -1,0 +1,116 @@
+[
+    {
+        "name": "role",
+        "posision": {
+            "x": 162,
+            "y": 1030
+        },
+        "connect": [
+            "1"
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "1",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 162,
+                    "y": 706
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+            {"x": 162,"y": 740},
+            {"x": 162,"y": 1030}
+                ]
+            }
+        ]
+    },  
+    {
+        "name": "floor",
+        "posision": [
+            {
+                "direction":"right",
+                "x": 206,
+                "y": 2029,
+                "width": 424,
+                "height": 1000
+            },
+            {
+                "direction":"right",
+                "x": 458,
+                "y": 2113,
+                "width": 82,
+                "height": 1000
+            },
+            {
+                "direction":"right",
+                "x": 567,
+                "y": 2029,
+                "width":137,
+                "height": 1000
+            },
+            {
+                "direction":"right",
+                "x": 858,
+                "y": 1825,
+                "width":448,
+                "height": 1400
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "posision": [
+            {
+                "x": 540,
+                "y": 193,
+                "width": 1080,
+                "height": 393
+            },
+            {
+                "x": -39,
+                "y": 960,
+                "width": 78,
+                "height": 1218
+            },
+            {
+                "x": 1119,
+                "y": 958,
+                "width": 78,
+                "height": 1241
+            }
+        ]
+    },   
+   {
+        "name": "bg",
+        "source":"game_bg1"
+    },
+        {
+        "name": "spring",
+        "posision": [
+            {
+                "direction":"right",
+                "time":2000,
+                "x": 458,
+                "y": 1575
+            }
+        ]
+    },
+  {
+        "name": "door",
+        "posision": [
+            {
+                "x": 889,
+                "y": 1004,
+                "width": 132,
+                "height": 237
+            }
+        ]
+    }
+]
+     

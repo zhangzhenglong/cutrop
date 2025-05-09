@@ -1,0 +1,190 @@
+[
+    {
+        "name": "role",
+        "posision": {
+            "x": 200,
+            "y": 723
+        },
+        "connect": [
+            "1"
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "1",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 200,
+                    "y": 416
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                    {
+                        "x": 200,
+                        "y": 450
+                    },
+                    {
+                        "x": 200,
+                        "y": 723
+                    }
+                ]
+            }
+        ]
+    },
+        {
+        "name": "chain",
+        "connect": "2",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 563,
+                    "y": 1011
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                    {
+                        "x": 562,
+                        "y": 1045
+                    },
+                    {
+                        "x": 691,
+                        "y": 1210
+                    }
+                ]
+            }
+        ]
+    },
+            {
+        "name": "chain",
+        "connect": "3",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 820,
+                    "y": 1014
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                    {
+                        "x": 820,
+                        "y": 1048
+                    },
+                    {
+                        "x": 691,
+                        "y": 1210
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "floor",
+        "posision": [
+            {
+                "direction": "right",
+                "x": 540,
+                "y": 2017,
+                "width": 1120,
+                "height": 953
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "posision": [
+            {
+                "x": 540,
+                "y": 193,
+                "width": 1080,
+                "height": 393
+            },
+            {
+                "x": -39,
+                "y": 960,
+                "width": 78,
+                "height": 1218
+            },
+            {
+                "x": 1116,
+                "y": 1081,
+                "width": 78,
+                "height": 1537
+            }
+        ]
+    },
+    {
+        "name": "bg",
+        "source": "game_bg2"
+    },
+    {
+        "name": "bandit",
+        "posision": [
+            {
+                "x": 507,
+                "y": 1447,
+                "p1":507,
+                "p2":775
+            }
+        ]
+    },
+    {
+        "name": "turnboard",
+        "posision": [
+            {
+                "direction": "right",
+                "x": 210,
+                "y": 990
+            }
+        ]
+    },
+    {
+        "name": "thorn",
+        "posision": [
+            {
+                "x": 139,
+                "y": 1530
+            },
+            {
+                "x": 307,
+                "y": 1530
+            }
+        ]
+    },
+     {
+        "name": "blade",
+         "connect": [
+            "2",
+            "3"
+        ],
+        "posision": [
+            {
+                "x": 691,
+                "y": 1210
+            }
+        ]
+    },
+    {
+        "name": "door",
+        "posision": [
+            {
+                "x": 927,
+                "y": 1423,
+                "width": 132,
+                "height": 237
+            }
+        ]
+    }
+]

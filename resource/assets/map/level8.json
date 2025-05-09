@@ -1,0 +1,121 @@
+[
+    {
+        "name": "role",
+        "posision": {
+            "x": 378,
+            "y": 711
+        },
+        "connect": [
+            "1"
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "1",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 375,
+                    "y": 414
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+            {"x": 375,"y": 448},
+            {"x": 378,"y": 711}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "floor",
+        "posision": [
+            {
+                "direction":"right",
+                "x": 188,
+                "y": 2026,
+                "width": 374,
+                "height": 1000
+            },
+            {
+                "direction":"right",
+                "x": 398,
+                "y": 1933,
+                "width": 48,
+                "height": 1300
+            },
+            {
+                "direction":"right",
+                "x": 750,
+                "y": 2026,
+                "width":659,
+                "height": 1000
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "posision": [
+            {
+                "x": 540,
+                "y": 193,
+                "width": 1080,
+                "height": 393
+            },
+            {
+                "x": -39,
+                "y": 960,
+                "width": 78,
+                "height": 1218
+            },
+            {
+                "x": 1119,
+                "y": 958,
+                "width": 78,
+                "height": 1241
+            }
+        ]
+    },   
+   {
+        "name": "bg",
+        "source":"game_bg1"
+    },
+        {
+        "name": "thorn",
+        "posision": [
+            {
+                "x": 103,
+                "y": 1477
+            },
+              {
+                "x": 275,
+                "y": 1477
+            }
+        ]
+    },
+            {
+        "name": "turnboard",
+        "posision": [
+            {
+                "roation": "90",
+                "x": 398,
+                "y": 1116
+            }
+        ]
+    },
+  {
+        "name": "door",
+        "posision": [
+            {
+                "x": 851,
+                "y": 1409,
+                "width": 132,
+                "height": 237
+            }
+        ]
+    }
+]
+     

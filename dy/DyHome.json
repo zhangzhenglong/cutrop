@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":1080,"height":307},"compId":2,"child":[{"type":"Image","props":{"skin":"resource/assets/img/dy/h2.png","centerY":0,"centerX":0},"compId":3,"child":[{"type":"List","props":{"width":977,"var":"gameList","spaceX":5,"repeatY":1,"height":222,"centerY":0,"centerX":0},"compId":4}]}],"loadList":["resource/assets/img/dy/h2.png"],"loadList3D":[]}

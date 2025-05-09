@@ -1,0 +1,196 @@
+[
+    {
+        "name": "role",
+        "posision": {
+            "x": 954,
+            "y": 1058
+        },
+        "connect": [
+            "1"
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "1",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 954,
+                    "y": 695
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+            {"x": 954,"y": 728},
+            {"x": 954,"y": 1058}
+                ]
+            }
+        ]
+    },
+     {
+        "name": "chain",
+        "connect": "2",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 531,
+                    "y": 411
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 531,"y": 449},
+                {"x": 531,"y": 901}
+                ]
+            }
+        ]
+    },
+         {
+        "name": "chain",
+        "connect": "3",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 213,
+                    "y": 649
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 213,"y": 685},
+                {"x": 203,"y": 912}
+                ]
+            }
+        ]
+    },   
+             {
+        "name": "chain",
+        "connect": "4",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 26,
+                    "y": 770
+                },
+                "roation": 270
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 59,"y": 770},
+                {"x": 203,"y": 912}
+                ]
+            }
+        ]
+    },         
+    {
+        "name": "floor",
+        "posision": [
+            {
+                "direction":"right",
+                "x": 540,
+                "y": 2204,
+                "width": 1099,
+                "height": 1283
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "posision": [
+            {
+                "x": 540,
+                "y": 193,
+                "width": 1080,
+                "height": 393
+            },
+            {
+                "x": -39,
+                "y": 960,
+                "width": 78,
+                "height": 1218
+            },
+            {
+                "x": 1119,
+                "y": 958,
+                "width": 78,
+                "height": 1241
+            }
+        ]
+    },   
+   {
+        "name": "bg",
+        "source":"game_bg2"
+    },
+        {
+        "name": "supthorn",
+        "connect": [
+            "2"
+        ],
+        "posision": [
+            {
+                "x": 531,
+                "y": 901
+            }
+        ]
+    },
+    {
+        "name": "board",
+        "posision": [
+            {
+                "direction": "left",
+                "x": 930,
+                "y": 1187,
+                "width": 300,
+                "height": 30
+            }
+        ]
+    },
+     {
+        "name": "bandit",
+        "posision": [
+            {
+                "x": 486,
+                "y": 676,
+                "p1":486,
+                "p2":591
+            }
+        ]
+    },
+    {
+        "name": "connon",
+         "connect": [
+            "3",
+            "4"
+        ],
+        "posision": [
+            {
+                "x": 203,
+                "y": 912
+            }
+            
+        ]
+    },
+  {
+        "name": "door",
+        "posision": [
+            {
+                "x": 936,
+                "y": 1442,
+                "width": 132,
+                "height": 237
+            }
+        ]
+    }
+]
+     

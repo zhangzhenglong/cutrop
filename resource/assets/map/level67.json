@@ -1,0 +1,177 @@
+[
+    {
+        "name": "role",
+        "posision": {
+            "x": 79,
+            "y": 865
+        },
+        "connect": [
+            "1"
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "1",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 79,
+                    "y": 549
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 79,"y": 585},
+                {"x": 79,"y": 865}
+                ]
+            }
+        ]
+    },
+        {
+        "name": "chain",
+        "connect": "2",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 686,
+                    "y": 532
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 686,"y": 566},
+                {"x": 686,"y": 803}
+                ]
+            }
+        ]
+    },    
+    {
+        "name": "floor",
+        "posision": [
+            {
+                "direction":"right",
+                "x": 516,
+                "y": 2045,
+                "width": 1200,
+                "height": 953
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "posision": [
+            {
+                "x": 540,
+                "y": 193,
+                "width": 1080,
+                "height": 393
+            },
+            {
+                "x": -39,
+                "y": 960,
+                "width": 78,
+                "height": 1218
+            },
+            {
+                "x": 1119,
+                "y": 958,
+                "width": 78,
+                "height": 1241
+            }
+        ]
+    },   
+   {
+        "name": "bg",
+        "source":"game_bg2"
+    },
+        {
+        "name": "thorn",
+        "posision": [
+            {
+                "x": 277,
+                "y": 1559
+            },
+            {
+                "x": 454,
+                "y": 1559
+            },
+            {
+                "x": 636,
+                "y": 1559
+            },
+            {
+                "x": 809,
+                "y": 1559
+            },
+            {
+                "x": 980,
+                "y": 1559
+            }
+        ]
+    },
+    {
+        "name": "spring",
+        "posision": [
+            {
+                "roation": 30,
+                "direction":"right",
+                "time":2200,
+                "x": 59,
+                "y": 1512
+            }
+        ]
+    },
+    {
+        "name": "board",
+        "posision": [
+            {
+                "direction": "right",
+                "x": 780,
+                "y": 1193,
+                "width": 600,
+                "height": 30
+            }
+        ]
+    },
+    {
+        "name": "heavy",
+         "connect": [
+            "2"
+        ],
+        "posision": [
+            {
+                "x": 686,
+                "y": 803
+            }
+        ]
+    },
+         {
+        "name": "bandit",
+        "posision": [
+            {
+                "x": 540,
+                "y": 1081,
+                "p1":540,
+                "p2":744
+            }
+        ]
+    },
+  {
+        "name": "door",
+        "posision": [
+            {
+                "x": 921,
+                "y": 1057,
+                "width": 132,
+                "height": 237
+            }
+        ]
+    }
+]
+     

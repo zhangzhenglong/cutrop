@@ -1,0 +1,150 @@
+[
+    {
+        "name": "role",
+        "posision": {
+            "x": 252,
+            "y": 660
+        },
+        "connect": [
+            "1"
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "1",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 252,
+                    "y": 411
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+            {"x": 252,"y": 444},
+            {"x": 252,"y": 660}
+                ]
+            }
+        ]
+    },     
+    {
+        "name": "floor",
+        "posision": [
+            {
+                "direction":"right",
+                "x": 268,
+                "y": 2201,
+                "width": 544,
+                "height": 1283
+            },
+            {
+                "direction":"right",
+                "x": 580,
+                "y": 2282,
+                "width": 89,
+                "height": 1283
+            },
+            {
+                "direction":"right",
+                "x": 742,
+                "y": 2201,
+                "width": 237,
+                "height": 1283
+            },
+            {
+                "direction":"left",
+                "x": 964,
+                "y": 1799,
+                "width": 230,
+                "height": 1283
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "posision": [
+            {
+                "x": 540,
+                "y": 193,
+                "width": 1080,
+                "height": 393
+            },
+            {
+                "x": -39,
+                "y": 960,
+                "width": 78,
+                "height": 1218
+            },
+            {
+                "x": 1119,
+                "y": 958,
+                "width": 78,
+                "height": 1241
+            }
+        ]
+    },   
+   {
+        "name": "bg",
+        "source":"game_bg2"
+    },
+    {
+        "name": "board",
+        "posision": [
+            {
+                "direction": "left",
+                "x": 402,
+                "y": 999,
+                "width": 30,
+                "height": 800
+            },
+            {
+                "direction": "left",
+                "x": 240,
+                "y": 834,
+                "width": 300,
+                "height": 30
+            },
+            {
+                "direction": "right",
+                "x": 72,
+                "y": 1111,
+                "width": 300,
+                "height": 30
+            },
+            {
+                "direction": "left",
+                "x": 240,
+                "y": 1384,
+                "width": 300,
+                "height": 30
+            }
+        ]
+    },
+{
+        "name": "spring",
+        "posision": [
+            {
+                "roation": 0,
+                "direction":"right",
+                "time":2000,
+                "x": 582,
+                "y": 1602
+            }
+        ]
+    },
+  {
+        "name": "door",
+        "posision": [
+            {
+                "x": 915,
+                "y": 1038,
+                "width": 132,
+                "height": 237
+            }
+        ]
+    }
+]
+     

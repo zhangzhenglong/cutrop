@@ -1,0 +1,176 @@
+[
+    {
+        "name": "role",
+        "posision": {
+            "x": 234,
+            "y": 865
+        },
+        "connect": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "1",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 234,
+                    "y": 600
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+            {"x": 234,"y": 634},
+            {"x": 234,"y": 865}
+                ]
+            }
+        ]
+    },
+     {
+        "name": "chain",
+        "connect": "2",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 31,
+                    "y": 960
+                },
+                "roation": 270
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 67,"y": 960},
+                {"x": 234,"y": 865}
+                ]
+            }
+        ]
+    },   
+         {
+        "name": "chain",
+        "connect": "3",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 626,
+                    "y": 600
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                {"x": 626,"y": 634},
+                {"x": 626,"y": 905}
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "floor",
+        "posision": [
+            {
+                "direction":"right",
+                "x": 263,
+                "y": 2034,
+                "width": 563,
+                "height": 1000
+            },
+            {
+                "direction":"right",
+                "dead":"true",
+                "x": 633,
+                "y": 2171,
+                "width":180,
+                "height": 710
+            },
+            {
+                "direction":"right",
+                "x": 911,
+                "y": 2037,
+                "width": 377,
+                "height": 1000
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "posision": [
+            {
+                "x": 540,
+                "y": 193,
+                "width": 1080,
+                "height": 393
+            },
+            {
+                "x": -39,
+                "y": 960,
+                "width": 78,
+                "height": 1218
+            },
+            {
+                "x": 1119,
+                "y": 958,
+                "width": 78,
+                "height": 1241
+            }
+        ]
+    },   
+   {
+        "name": "bg",
+        "source":"game_bg2"
+    },
+        {
+        "name": "supthorn",
+        "connect": [
+            "3"
+        ],
+        "posision": [
+            {
+                "x": 626,
+                "y": 905
+            }
+        ]
+    },
+    {
+        "name": "board",
+        "posision": [
+            {
+                "x": 946,
+                "y": 1039,
+                "width": 268,
+                "height": 30
+            }
+        ]
+    },
+    {
+        "name": "bandit",
+        "posision": [
+            {
+                "x": 942,
+                "y": 933,
+                "p1":1002,
+                "p2":876
+            }
+        ]
+    },
+  {
+        "name": "door",
+        "posision": [
+            {
+                "x": 851,
+                "y": 1418,
+                "width": 132,
+                "height": 237
+            }
+        ]
+    }
+]
+     

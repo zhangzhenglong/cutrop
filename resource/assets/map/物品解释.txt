@@ -1,0 +1,13 @@
+spring=弹簧
+floor=地板及挡板
+board=地板及挡板
+thorn=地刺
+supthorn=柜子刺
+blade=锯齿刀片
+ropehead=绳子头
+heavy=重物
+turnthorn=转盘刺
+turnboard=转盘木板
+linkboard=连接板
+saw=电锯
+connon=大炮

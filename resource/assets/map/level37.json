@@ -1,0 +1,217 @@
+[
+    {
+        "name": "role",
+        "posision": {
+            "x": 409,
+            "y": 977
+        },
+        "connect": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "1",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 194,
+                    "y": 673
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                    {
+                        "x": 193,
+                        "y": 707
+                    },
+                    {
+                        "x": 409,
+                        "y": 977
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "chain",
+        "connect": "2",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 439,
+                    "y": 673
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                    {
+                        "x": 409,
+                        "y": 707
+                    },
+                    {
+                        "x": 409,
+                        "y": 977
+                    }
+                ]
+            }
+        ]
+    },
+        {
+        "name": "chain",
+        "connect": "3",
+        "data": [
+            {
+                "name": "ropehead",
+                "posision": {
+                    "x": 603,
+                    "y": 673
+                },
+                "roation": 0
+            },
+            {
+                "name": "rope",
+                "posision": [
+                    {
+                        "x": 603,
+                        "y": 707
+                    },
+                    {
+                        "x": 409,
+                        "y": 977
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "floor",
+        "posision": [
+            {
+                "direction": "right",
+                "x": 558,
+                "y": 2008,
+                "width": 1200,
+                "height": 953
+            }
+        ]
+    },
+    {
+        "name": "roof",
+        "posision": [
+            {
+                "x": 540,
+                "y": 193,
+                "width": 1080,
+                "height": 393
+            },
+            {
+                "x": -39,
+                "y": 960,
+                "width": 78,
+                "height": 1218
+            },
+            {
+                "x": 1116,
+                "y": 1081,
+                "width": 78,
+                "height": 1537
+            }
+        ]
+    },
+    {
+        "name": "bg",
+        "source": "game_bg2"
+    },
+    {
+        "name": "board",
+        "posision": [
+            {
+                "direction": "right",
+                "x": 930,
+                "y": 849,
+                "width": 300,
+                "height": 30
+            }
+        ]
+    },
+        {
+        "name": "thorn",
+        "posision": [
+            {
+                "roation": 180,
+                "x": 321,
+                "y": 399
+            },
+            {
+                "roation": 180,
+                "x": 489,
+                "y": 399
+            },
+            {
+                "x": 814,
+                "y": 1522
+            },
+            {
+                "x": 988,
+                "y": 1522
+            },
+            {
+                "x": 309,
+                "y": 1522
+            }
+        ]
+    },
+    {
+        "name": "spring",
+        "posision": [
+            {
+                "roation": 40,
+                "direction":"right",
+                "time":2500,
+                "x": 56,
+                "y": 1236
+            },
+            {
+                "roation": 10,
+                "direction":"right",
+                "time":4000,
+                "x": 184,
+                "y": 1485
+            },
+            {
+                "roation": -20,
+                "direction":"left",
+                "time":1700,
+                "x": 439,
+                "y": 1477
+            },
+            {
+                "roation": 30,
+                "direction":"right",
+                "time":3000,
+                "x": 545,
+                "y": 1477
+            }
+        ]
+    },
+    {
+        "name": "door",
+        "posision": [
+            {
+                "x": 948,
+                "y": 715,
+                "width": 132,
+                "height": 237
+            }
+        ]
+    }
+]
